@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sathya8571/orgImg
+        image: sathya8571/orgimg
         ports:
         - containerPort: 80
